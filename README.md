@@ -15,4 +15,4 @@ Furthermore, 'HemoPredict' aspires to contribute valuable insights to the broade
 
 In summary, 'HemoPredict' stands at the forefront of innovation, blending data analytics and oncology to redefine how we approach blood cancer prognosis. This visionary project not only aims to improve patient outcomes but also represents a paradigm shift in our journey towards more precise, personalized, and effective healthcare solutions."
 
-# NOTE: You can find the CSV file for the project in Kaggle.
+# NOTE: You can find the CSV file for the project in Kaggle or above.
